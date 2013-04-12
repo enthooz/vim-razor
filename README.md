@@ -1,4 +1,4 @@
-# Syntax highlight for Razor files in Vim
+# Syntax highlighting for Razor files in Vim
 
 ## Overview
 
